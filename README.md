@@ -76,6 +76,8 @@ Note que ele faz a mesma coisa que o primeiro exemplo, porém o código é muito
 - [Create Your Own XML/JSON/HTML API with PHP](https://dzone.com/articles/create-your-own-xmljsonhtml)
 - [PHP: Documentatio](https://www.php.net/docs.php)
 - [PHP: Manual](https://www.php.net/manual/en/index.php)
+- [Campanha por um PHP sem o else!](https://webdevbr.com.br/campanha-por-um-php-sem-o-else)
+- [direto ao assunto deste tutorial](https://youtu.be/u-w4eULRrr0?t=15m6s)
 
 #### Desafios:
 [Php Developer JR](https://gist.github.com/henriquebelfort/9f87aaad1c26b3b23a3bdcb9d6c995e2)
