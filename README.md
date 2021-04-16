@@ -52,7 +52,22 @@ class CyclomaticComplexity
         }
     }
 }
-````
+```
+O código acima recebe um valor qualquer que verifica se este é um número, se não for deve retornar false, se for ele novamente verifica se é maior ou igual a 10 e retorna o valor enviado em caso de sucesso, se não retorna false.
+
+```
+class CyclomaticComplexity
+{
+    public function checkAnyNumber($n)
+    {
+        if (!is_int($n) or $n < 10)
+            return false;
+
+        return $n;
+    }
+}
+```
+Note que ele faz a mesma coisa que o primeiro exemplo, porém o código é muito mais enxuto e elegante. A única coisa que fiz foi remover juntar os ifs em um através do operador or e inverter os operadores (negando com ! o primeiro e trocar o >= por <). O return sempre para a execução de um método quando é chamado e isso deve sempre ser usado a seu favor. O Guilherme deu outras dicas na palestra (vou deixar ai em baixo) e tem outro exemplo sobre o "Não uso do else". E voce? Posta um exemplo seu sobre legibilidade no gist.github.com e manda o link ai nos comentários. Será que podemos aposentar o else de vez no PHP?
 
 #### Links de apoio:
 - [apptha](https://www.apptha.com/blog/how-to-build-a-rest-api-using-php/)
