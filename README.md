@@ -40,6 +40,8 @@ b. Ruim –http: //example.com/api/product
 - [Introdução a JSON e PHP (Webservices)](http://blog.thiagobelem.net/introducao-a-json-e-php-webservices)
 - [Laravel 4: A Start at a RESTful API (Updated)](https://code.tutsplus.com/tutorials/laravel-4-a-start-at-a-restful-api-updated--net-29785)
 - [Create Your Own XML/JSON/HTML API with PHP](https://dzone.com/articles/create-your-own-xmljsonhtml)
+- [PHP: Documentatio](https://www.php.net/docs.php)
+- [PHP: Manual](https://www.php.net/manual/en/index.php)
 
 #### Desafios:
 [Php Developer JR](https://gist.github.com/henriquebelfort/9f87aaad1c26b3b23a3bdcb9d6c995e2)
