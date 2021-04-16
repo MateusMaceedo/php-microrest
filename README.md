@@ -3,9 +3,7 @@
  <br>
 </h1>
 
-<p align="justify">
-O que é REST API?
-
+#### O que é REST API?
 REST significa Representational State Transfer e significa que a solicitação e a resposta devem conter uma representação das informações, ou seja, devem estar em um determinado formato. Então, basicamente, as solicitações devem usar métodos HTTP adequados e a resposta deve estar em um formato adequado, como JSON ou XML, em vez de texto simples.
 
 A API REST nada mais é do que uma API normal com um conjunto de princípios. Precisamos seguir um conjunto de regras ao criar e consumir a API REST.
@@ -32,7 +30,6 @@ b. Ruim –http: //example.com/api/product
 
 5. Use os códigos de resposta HTTP para indicar o status das solicitações.
 6. Os dados de resposta devem estar no formato JSON ou XML.
-<p>
 
 <h1 align="center">
 <img width="696" height="288" src="https://apptha-blog.s3.amazonaws.com/blog/wp-content/uploads/2015/11/API-Using-PHP.jpg" class="attachment-post-thumbnail wp-post-image" alt="API usando PHP" title="API usando PHP">
